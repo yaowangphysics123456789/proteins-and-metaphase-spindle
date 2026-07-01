@@ -1,1 +1,1 @@
-# proteins-and-metaphase-spindle
+# Mechanisms of stability of metaphase spindle and associated proteins regulating microtubule flux
